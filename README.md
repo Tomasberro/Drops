@@ -33,6 +33,7 @@ style="width: 100%;
         • Photoshop<br/>
         • After Effects<br/>
         • Corel Draw<br/><br/>
+            <p>Visitanos https://www.youtube.com/watch?v=vX7DOZsdhrw&ab_channel=juanitu82</p>
         <i><strong>Integrantes:</strong></i><br/><br/>
         • <a style="text-decoration: none; color: black;" href="https://www.linkedin.com/in/tom%C3%A1s-berrotar%C3%A1n-dev/" target="_blank">Tomás Berrotarán</a><br/>
         • <a style="text-decoration: none; color: black;" href="https://www.linkedin.com/in/german-campodonico-/" target="_blank">Germán Compodonico</a><br/>
